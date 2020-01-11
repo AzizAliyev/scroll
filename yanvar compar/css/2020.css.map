@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM;EACF,QAAQ,EAAE,KAAK;EACf,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,IAAI",
+"sources": ["2020.scss"],
+"names": [],
+"file": "2020.css"
+}
